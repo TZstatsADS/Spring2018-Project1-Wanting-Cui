@@ -8,7 +8,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2018
 
-+ Projec title: Inaguration Speech
++ Projec title: Inauguration Speech
 + This project is conducted by Wanting Cui
 
 + Project summary: 
