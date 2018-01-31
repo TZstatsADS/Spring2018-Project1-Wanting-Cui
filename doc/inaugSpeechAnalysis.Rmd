@@ -27,7 +27,7 @@ packages.used=c("rvest", "tibble", "qdap",
                 "sentimentr", "gplots", "dplyr",
                 "tm", "syuzhet", "factoextra", 
                 "beeswarm", "scales", "RColorBrewer",
-                "RANN", "tm", "topicmodels")
+                "RANN", "tm", "topicmodels", "xlxs", "reshape2")
 
 # check packages that need to be installed.
 packages.needed=setdiff(packages.used, 
